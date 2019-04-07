@@ -1,16 +1,16 @@
 # AI-In-Aviation-Industry
 
-The global aviation industry has been growing exponentially. Take the example of the U.S. commercial aviation industry: In the next two decades, passenger count is expected to double. In 2016, the U.S. commercial aviation industry generated an operating revenue of $168.2 billion. This is an opportunity for exponential growth which needs to be handled well. The aviation industry needs to move beyond its present ways of working and find better ways to optimize resources, improve customer satisfaction and safety records, control costs and be more responsible environmentally. Data is key to unlocking the potential, and the aviation industry must leverage AI. So, while both the business case and context of AI in the aviation industry is set, we need to discuss the use cases being implemented currently.
+The global aviation industry has been growing exponentially. Take the example of the U.S. commercial aviation industry: In the next two decades, passenger count is expected to double. In 2016, the U.S. commercial aviation industry generated an operating revenue of $168.2 billion. This is an opportunity for exponential growth which needs to be handled well. The aviation industry needs to move beyond its present ways of working and find better ways to optimize resources, improve customer satisfaction and safety records, control costs and be more responsible environmentally. Data is key to unlocking the potential, and the aviation industry must leverage AI. 
+
 
 ### Few words about AI...
 
 Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions) and self-correction. Particular applications of AI include expert systems, speech recognition and machine vision.
 
-
 For the past few years, AI have dominated conversations in the tech world. 
 This emerging technology is considered part of the Fourth Industrial Revolution. 
 This is transforming every industry in one form or another and aviation is no exception.
-Today AI is reshaping both the technological and human aspects of aviation.
+So, while today AI is reshaping both the technological and human aspects of aviation, we need to discuss the use cases being implemented currently.
 
 
 
