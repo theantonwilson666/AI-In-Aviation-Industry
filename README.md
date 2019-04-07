@@ -48,3 +48,8 @@ Rescheduling a crew member isn’t simple. Numerous factors like qualifications,
 and scheduling conflicts need to be resolved. This can be solved by utilising machine learning systems. 
 Jeppesen is an example of an AI-based crew rostering system that is 
 helping the industry better manage their crew assignments.
+
+
+## Conclusion
+
+It is surprising that a sector as important as aviation has woken up to AI so late. As AI in aviation picks up its pace, there could probably be a few mergers, acquisitions or even closure of small airlines which will not be able to afford the investments. Now, AI seems the best option to take aviation to the next level.
