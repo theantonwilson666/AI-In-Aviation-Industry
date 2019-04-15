@@ -9,7 +9,7 @@ Artificial intelligence (AI) is the simulation of human intelligence processes b
 
 For the past few years, AI have dominated conversations in the tech world. 
 This emerging technology is considered part of the Fourth Industrial Revolution. 
-This is transforming every industry in one form or another and aviation is no exception.
+It is transforming every industry in one form or another and aviation is no exception.
 So, while today AI is reshaping both the technological and human aspects of aviation, we need to discuss the use cases being implemented currently.
 
 
@@ -32,8 +32,16 @@ mechanical parts are not easy to move around. Consequently, airlines have to met
 Any unplanned maintenance can result in flight cancellations and delays which are expensive. 
 This has led airlines to use AI-based predictive analytics to determine the maintenance needs of various parts of an aircraft.
 These tools can predict failure before it happens. It can save millions for the aviation industry.
-Delta is already using predictive maintenance to decrease flight cancellations. Moreover,
-AI-based tools are helping ground maintenance crew with repairs.
+Delta Airlines Compony is already using predictive maintenance to decrease flight cancellations. Moreover,
+AI-based tools are helping ground maintenance crew with repairs. 
+
+
+### Avoidance Systems
+
+TCAS - traffic collision avoidance system, on-board system that predicts collisions that may accure a few seconds
+before accident. And it's priority is higher than the air-traffic controller's. 
+
+MTCD - medium term conflict detection, air-traffic controller system, which helps to avoid conflicts in advance.
 
 
 ### Fuel Efficiency
@@ -54,8 +62,28 @@ The aviation industry is reliant on a complex network of people working together
 Missing crew members, including pilots, flight attendants and engineers, can have ripple effects. 
 Rescheduling a crew member isn’t simple. Numerous factors like qualifications, certificates, availability, 
 and scheduling conflicts need to be resolved. This can be solved by utilising machine learning systems. 
-Jeppesen is an example of an AI-based crew rostering system that is 
+Jeppesen Air-Navigation System's Company (U.S) is an example of an AI-based crew rostering system that is 
 helping the industry better manage their crew assignments.
+
+
+## AI vs Mankind 
+
+
+However, one of the most challenging issue is whether AI can replace pilot or air-traffic controller.
+Let us begin with history... In 1947 american military aircraft Douglas C-54 Skymaster crossed the Atlantic Ocean 
+in automatic mode. Then, in 1989 the orbital ship "Buran" performed an automatic landing. As we can see 
+the basic AI systems appeared almost half a centure ago. But for some reasons, we can't see absolutely automated
+aircrafts today. So, what's the problem behind?
+
+In the sky sometimes there're abnormal situations, and in this case, the creative human nature and the ability to
+think outside the box take over the racionality of AI. If we want to replace the air-traffic controller 
+there're even more difficulties. For example, he must recognize different languages and accents. 
+Yet, we can't implement full speech recognition in AI. Moreover, the communication channel is constructed so
+that air-traffic controller speaks, pilot listen, AI can't speak. So it will send text data, but pilot can't
+be distracted. And we don't even speak about economic part. Increase in efficiency may be small, but it will
+lead to enormous ticket price.
+
+
 
 
 ## Conclusion
